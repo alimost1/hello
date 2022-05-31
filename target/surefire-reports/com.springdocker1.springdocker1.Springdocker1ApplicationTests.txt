@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springdocker1.springdocker1.Springdocker1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.567 s - in com.springdocker1.springdocker1.Springdocker1ApplicationTests
